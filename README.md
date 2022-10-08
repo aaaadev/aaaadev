@@ -1,4 +1,6 @@
-### Hi there 👋
+### 꿈을 지키는 마법소녀 에리링 🪄
+
+에리링은 무엇이든지 할 수 있어요! (~~단, 안귀여운거 빼고요..~~)
 
 <!--
 **aaaadev/aaaadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
