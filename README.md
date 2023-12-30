@@ -20,7 +20,7 @@
 
 ![quickn's solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=quickn)
 
-[![LaplacianMatrix's CodeForces Profile](https://cf.leed.at?id=LaplacianMatrix)](https://codeforces.com/profile/LaplacianMatrix)
+[![Stygian_Nymph's CodeForces Profile](https://cf.leed.at?id=Stygian_Nymph)](https://codeforces.com/profile/Stygian_Nymph)
 
 <!--
 **aaaadev/aaaadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
