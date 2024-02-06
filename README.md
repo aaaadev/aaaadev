@@ -4,15 +4,14 @@
 
 ### 프로젝트
 
-- [@pms-oj](https://github.com/pms-oj): Vue.js + Rust(actix + actix-web + diesel ORM)로 작성된 빠르고, 모듈화 되어있고, 대규모 로드 처리에 최적화된 오픈소스 온라인 저지 소프트웨어
-- [@pms-oj/testlib-rs](https://github.com/pms-oj/testlib-rs): Rust로 재작성된 testlib (WIP)
+- [@seele-oj](https://github.com/seele-oj): Vue.js + Rust(actix + actix-web + diesel ORM)로 작성된 빠르고, 모듈화 되어있고, 대규모 로드 처리에 최적화된 오픈소스 온라인 저지 소프트웨어
+- [@seele-oj/testlib-rs](https://github.com/seele-oj/testlib-rs): Rust로 재작성된 testlib (WIP)
 - [quickn-blog](https://github.com/quickn-blog/blog): yew + actix-web + diesel ORM로 작성된 블로그 소프트웨어 (프로덕션 예시: [astar.moe](https://astar.moe))
-- [@PalmTalk](https://github.com/PalmTalk): Wear OS등 다양한 디바이스에 (비공식) 카카오톡[^1] 클라이언트를 구현하는 프로젝트
+- [@PalmTalk](https://github.com/PalmTalk): Wear OS등 다양한 디바이스에 (비공식) KakaoTalk 클라이언트를 구현하는 프로젝트 (WIP)
 - [Telegram W](https://github.com/aaaadev/TelegramW): Unofficial native Telegram client for Wear OS (built by TDLib)
 
 
 그 외 다양한 프로젝트 다수
-[^1]: 카카오톡은 주식회사 카카오의 상표입니다.
 
 ### Competitive Programming
 
