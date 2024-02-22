@@ -17,8 +17,6 @@
 
 [![quickn's AtCoder Profile](https://atrating.baoshuo.dev/rating?username=quickn)](https://atcoder.jp/users/quickn)
 
-![quickn's solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=quickn)
-
 [![Stygian_Nymph's CodeForces Profile](https://cf.leed.at?id=Stygian_Nymph)](https://codeforces.com/profile/Stygian_Nymph)
 
 <!--
