@@ -4,6 +4,7 @@
 
 ### 프로젝트
 
+- [@SeeleBSD](https://github.com/SeeleBSD): Rust로 OpenBSD를 포크해서 디바이스 드라이버 등등을 작성하는 프로젝트
 - [@seele-oj](https://github.com/seele-oj): Vue.js + Rust(actix + actix-web + diesel ORM)로 작성된 빠르고, 모듈화 되어있고, 대규모 로드 처리에 최적화된 오픈소스 온라인 저지 소프트웨어
 - [@seele-oj/testlib-rs](https://github.com/seele-oj/testlib-rs): Rust로 재작성된 testlib (WIP)
 - [quickn-blog](https://github.com/quickn-blog/blog): yew + actix-web + diesel ORM로 작성된 블로그 소프트웨어 (프로덕션 예시: [astar.moe](https://astar.moe))
