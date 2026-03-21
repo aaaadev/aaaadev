@@ -10,6 +10,7 @@ I'm a fan of Seele Vollerei (from Honkai Impact 3rd), and I love hardware accele
 
 ### Dead projects?
 - [SeeleBSD](https://github.com/SeeleBSD/sys): bring AGX GPU driver into OpenBSD
+
 Apart from that, several open-source projects are planned...
 
 ### Competitive Programming
