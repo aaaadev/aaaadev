@@ -1,14 +1,16 @@
-### 🪄 프로젝트
+## aaaadev
 
-- [@SeeleBSD](https://github.com/SeeleBSD): Rust로 OpenBSD를 포크해서 디바이스 드라이버 등등을 작성하는 프로젝트
-- [@seele-oj](https://github.com/seele-oj): Vue.js + Rust(actix + actix-web + diesel ORM)로 작성된 빠르고, 모듈화 되어있고, 대규모 로드 처리에 최적화된 오픈소스 온라인 저지 소프트웨어
-- [@seele-oj/testlib-rs](https://github.com/seele-oj/testlib-rs): Rust로 재작성된 testlib (WIP)
-- [quickn-blog](https://github.com/quickn-blog/blog): yew + actix-web + diesel ORM로 작성된 블로그 소프트웨어 (프로덕션 예시: [astar.moe](https://astar.moe))
-- [@PalmTalk](https://github.com/PalmTalk): Wear OS등 다양한 디바이스에 (비공식) KakaoTalk 클라이언트를 구현하는 프로젝트 (WIP)
-- [Telegram W](https://github.com/aaaadev/TelegramW): Unofficial native Telegram client for Wear OS (built by TDLib)
+I'm a fan of Seele Vollerei (from Honkai Impact 3rd), and I love hardware acceleration stuffs.
 
+### Remarkable stuffs
+- 43rd Korean College Math Competition Bronze Prize (major in mathematics field)
+- Solved IngonyamaZK's challenges (A Modulo Machine, Broken Dlog, Multiplier Micro Architecture), [here](https://github.com/aaaadev/ingonyama-challenges)
+- UCPC 2024/2025 Finalists
+- 16th Software Maestro Trainee
 
-그 외 다양한 프로젝트 다수
+### Dead projects?
+- [SeeleBSD](https://github.com/SeeleBSD/sys): bring AGX GPU driver into OpenBSD
+Apart from that, several open-source projects are planned...
 
 ### Competitive Programming
 
