@@ -8,6 +8,10 @@ I'm a fan of Seele Vollerei (from Honkai Impact 3rd), and I love hardware accele
 - UCPC 2024/2025 Finalists
 - 16th Software Maestro Trainee
 
+### My works
+- Have experience in Xilinx Alveo accelerator / Latest generation Altera accelerator
+- Interested in scientific (or related to combinatorics, number theory) high-performance hardware acceleration
+
 ### Dead projects?
 - [SeeleBSD](https://github.com/SeeleBSD/sys): bring AGX GPU driver into OpenBSD
 
