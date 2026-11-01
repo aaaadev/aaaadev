@@ -1,23 +1,24 @@
 ## aaaadev
 
-I'm a fan of Seele Vollerei (from Honkai Impact 3rd), and I love hardware acceleration stuffs.
+I'm a fan of Seele Vollerei (from Honkai Impact 3rd), and I love some geek stuffs.
 
 ### Remarkable stuffs
 - 43rd Korean College Math Competition Bronze Prize (major in mathematics field)
 - Solved IngonyamaZK's challenges (A Modulo Machine, Broken Dlog, Multiplier Micro Architecture), [here](https://github.com/aaaadev/ingonyama-challenges)
 - UCPC 2024/2025 Finalists
-- 16th Software Maestro Trainee
+- 16th Software Maestro Trainee (completed)
 
 ### My works
-- Have experience in Xilinx Alveo accelerator / Latest generation Altera accelerator
-- Interested in scientific (or related to combinatorics, number theory) high-performance hardware acceleration
+- Have experience in Xilinx 7-series, UltraScale+ / Altera Arria-10
+- Schematic/PCB engineering experience (High-power load, PCIe, USB, FPGAs)
+- Interested in scientific (or related to physics, number theory) hacks
 
-### Dead projects?
-- [SeeleBSD](https://github.com/SeeleBSD/sys): bring AGX GPU driver into OpenBSD
-
-Apart from that, several open-source projects are planned...
+### Patents
+- Preparing for application...
 
 ### Competitive Programming
+
+I'm retired from this field due to AI hacks sorry :(
 
 [![quickn's AtCoder Profile](https://atrating.baoshuo.dev/rating?username=quickn)](https://atcoder.jp/users/quickn)
 
