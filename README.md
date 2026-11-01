@@ -18,7 +18,7 @@ I'm a fan of Seele Vollerei (from Honkai Impact 3rd), and I love some geek stuff
 
 ### Competitive Programming
 
-I'm retired from this field due to AI hacks sorry :(
+I'm retired from this field due to AI hacks
 
 [![quickn's AtCoder Profile](https://atrating.baoshuo.dev/rating?username=quickn)](https://atcoder.jp/users/quickn)
 
